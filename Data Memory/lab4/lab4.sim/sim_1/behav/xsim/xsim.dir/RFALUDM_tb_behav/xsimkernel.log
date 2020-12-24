@@ -1,0 +1,7 @@
+Running: xsim.dir/RFALUDM_tb_behav/xsimk.exe -simmode gui -wdb RFALUDM_tb_behav.wdb -simrunnum 0 -socket 63519
+Design successfully loaded
+Design Loading Memory Usage: 5332 KB (Peak: 5332 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 6204 KB (Peak: 6204 KB)
+Simulation CPU Usage: 15 ms
