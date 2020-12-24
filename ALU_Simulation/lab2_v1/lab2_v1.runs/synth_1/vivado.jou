@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Sep 12 19:30:24 2020
+# Process ID: 23172
+# Current directory: C:/Users/bhoin/lab2_v1/lab2_v1.runs/synth_1
+# Command line: vivado.exe -log LEGv8ALUwithControl.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source LEGv8ALUwithControl.tcl
+# Log file: C:/Users/bhoin/lab2_v1/lab2_v1.runs/synth_1/LEGv8ALUwithControl.vds
+# Journal file: C:/Users/bhoin/lab2_v1/lab2_v1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source LEGv8ALUwithControl.tcl -notrace
