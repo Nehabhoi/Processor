@@ -1,0 +1,14 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/bhoin/lab3/lab3.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/bhoin/lab3/lab3.srcs/sim_1/new/RFwithALU_tb.v,1600808395,verilog,,,,RFwithALU_tb,,,,,,,,
+C:/Users/bhoin/lab3/lab3.srcs/sim_1/new/RFwithALUandWB_tb.v,1602276858,verilog,,,,RFwithALUandWB_tb,,,,,,,,
+C:/Users/bhoin/lab3/lab3.srcs/sim_1/new/regfile_tb.v,1600804016,verilog,,,,regfile_tb,,,,,,,,
+C:/Users/bhoin/lab3/lab3.srcs/sources_1/new/LEGv8ALU.v,1599967820,verilog,,C:/Users/bhoin/lab3/lab3.srcs/sources_1/new/LEGv8ALU_control.v,,LEGv8ALU,,,,,,,,
+C:/Users/bhoin/lab3/lab3.srcs/sources_1/new/LEGv8ALU_control.v,1599963338,verilog,,C:/Users/bhoin/lab3/lab3.srcs/sources_1/new/LEGv8ALUwithControl.v,,LEGv8ALU_control,,,,,,,,
+C:/Users/bhoin/lab3/lab3.srcs/sources_1/new/LEGv8ALUwithControl.v,1599963502,verilog,,C:/Users/bhoin/lab3/lab3.srcs/sources_1/new/RFwithALUandWB.v,,LEGv8ALUwithControl,,,,,,,,
+C:/Users/bhoin/lab3/lab3.srcs/sources_1/new/RFwithALU.v,1600806932,verilog,,C:/Users/bhoin/lab3/lab3.srcs/sources_1/new/regfile.v,,RFwithALU,,,,,,,,
+C:/Users/bhoin/lab3/lab3.srcs/sources_1/new/RFwithALUandWB.v,1600914668,verilog,,C:/Users/bhoin/lab3/lab3.srcs/sources_1/new/regfile.v,,RFwithALUandWB,,,,,,,,
+C:/Users/bhoin/lab3/lab3.srcs/sources_1/new/regfile.v,1600755050,verilog,,C:/Users/bhoin/lab3/lab3.srcs/sim_1/new/RFwithALUandWB_tb.v,,regfile,,,,,,,,
