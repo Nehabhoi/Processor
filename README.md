@@ -9,7 +9,7 @@
 [Neha Bhoi](https://github.com/Nehabhoi)
 
 ## About The Project
-This project consist of verilong code to demonstare implementation of 5-stage pipeline.
+This project consists of Verilog code to demonstrate the implementation of a 5-stage pipeline processor.
 It consist of below modules:<br />
 1.ALU_Simulation<br />
 2.Register File<br />
