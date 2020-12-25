@@ -1,0 +1,19 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/bhoin/lab5_v1/lab5_v1.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sim_1/new/ID_tb.v,1603099440,verilog,,,,ID_tb,,,,,,,,
+C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sim_1/new/IM_tb.v,1603097078,verilog,,,,IM_tb,,,,,,,,
+C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sim_1/new/PC_Adder_tb.v,1603094118,verilog,,,,PC_Adder_tb,,,,,,,,
+C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sim_1/new/PC_IM_ID_tb.v,1603100584,verilog,,,,PC_IM_ID_tb,,,,,,,,
+C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sim_1/new/PC_IM_tb.v,1603098513,verilog,,,,PC_IM_tb,,,,,,,,
+C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sim_1/new/PC_tb.v,1603073234,verilog,,,,PC_tb,,,,,,,,
+C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sim_1/new/adder_tb.v,1603073660,verilog,,,,adder_tb,,,,,,,,
+C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sources_1/new/ID.v,1603099103,verilog,,C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sources_1/new/IM.v,,ID,,,,,,,,
+C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sources_1/new/IM.v,1603096871,verilog,,C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sources_1/new/PC.v,,IM,,,,,,,,
+C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sources_1/new/PC.v,1603072941,verilog,,C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sources_1/new/PC_Adder.v,,PC,,,,,,,,
+C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sources_1/new/PC_Adder.v,1603094069,verilog,,C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sources_1/new/adder.v,,PC_Adder,,,,,,,,
+C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sources_1/new/PC_IM.v,1603098459,verilog,,C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sources_1/new/adder.v,,PC_IM,,,,,,,,
+C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sources_1/new/PC_IM_ID.v,1603101254,verilog,,C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sources_1/new/adder.v,,PC_IM_ID,,,,,,,,
+C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sources_1/new/adder.v,1603073468,verilog,,C:/Users/bhoin/lab5_v1/lab5_v1.srcs/sim_1/new/PC_Adder_tb.v,,adder,,,,,,,,

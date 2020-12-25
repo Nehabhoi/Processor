@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Oct 19 02:55:37 2020
+# Process ID: 4132
+# Current directory: C:/Users/bhoin/lab5_v1/lab5_v1.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17864 C:\Users\bhoin\lab5_v1\lab5_v1.sim\sim_1\behav\xsim\adder_tb_behav.wdb
+# Log file: C:/Users/bhoin/lab5_v1/lab5_v1.sim/sim_1/behav/xsim/vivado.log
+# Journal file: C:/Users/bhoin/lab5_v1/lab5_v1.sim/sim_1/behav/xsim\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\bhoin\lab5_v1\lab5_v1.sim\sim_1\behav\xsim\adder_tb_behav.wdb}
+close_sim

@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab5_v1.srcs/sources_1/new/ID.v" \
+"../../../../lab5_v1.srcs/sources_1/new/IM.v" \
+"../../../../lab5_v1.srcs/sources_1/new/PC.v" \
+"../../../../lab5_v1.srcs/sources_1/new/PC_Adder.v" \
+"../../../../lab5_v1.srcs/sources_1/new/PC_IM_ID.v" \
+"../../../../lab5_v1.srcs/sources_1/new/adder.v" \
+"../../../../lab5_v1.srcs/sim_1/new/PC_IM_ID_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
